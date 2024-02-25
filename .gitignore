@@ -1,0 +1,6 @@
+credit_card.db
+.idea/
+.vscode/
+__pycache__/
+transaction-details_export_feb.xlsx
+cumulative_sum.json
